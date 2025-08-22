@@ -1,5 +1,5 @@
 # Tools-for-NLP-student-collab
-In the course repository, you will find the course assignments, code snippets, and work collaboratively on tasks.
+In the course repository, you will find the course assignments, code snippets, and you can work collaboratively on tasks.
 
 Welcome to our shared repository for course projects and experiments.  
 
