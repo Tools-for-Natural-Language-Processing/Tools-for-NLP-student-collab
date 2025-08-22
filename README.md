@@ -18,5 +18,6 @@ Welcome to our shared repository for course projects and experiments.
 ## Folder Structure
 - `/projects` — Student project folders
 - `/resources` — Shared notes, readings, etc.
+- `/codes` — Shared code snippets 
 
 
