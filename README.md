@@ -34,7 +34,7 @@ Welcome to our shared repository for course projects and experiments.
 - Use clear folder names.
 - No sensitive data.
 - Keep commits descriptive.
-- Ask before deleting or overwriting others’ work.
+# Ask before deleting or overwriting others’ work.
 
 ## Folder Structure
 - `/projects` — Student project folders
