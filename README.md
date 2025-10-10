@@ -4,7 +4,7 @@
 | 1 | 13.10.2025 | Introduction: Properties of AI systems, git basics (AI tutor) | Read Turing 1950<br>Start thinking about linguistics paper |
 | 2 | 20.10.2025 | AI in history, [Turing 1950]() // more on; google colab | Start watching Karpathy part 1 (Nov 3rd)<br> Jurafsky & Martin (2024: 32-38)|
 | 3 | 27.10.2025 | n-gram models, tokenizing, tagging, NER // tools: google colab | Finish watching Karpathy part 1 (0:00:00 -- 01:20:31)|
-| 4 | 03.11.2025 | [Karpathy part 1](https://youtu.be/7xTGNNLPyMI?si=qIU-Up9xHwH4p2jh) (0:00:00 -- 01:20:31) // use of various tools in class, huggingface |
+| 4 | 03.11.2025 | [Karpathy part 1](https://youtu.be/7xTGNNLPyMI?si=qIU-Up9xHwH4p2jh) (0:00:00 -- 01:20:31) // use of various tools; huggingface |
 | 5 | 10.11.2025 | working with linguistics papers (1): AI as a tool // identification of various challenges |
 | 6 | 17.11.2025 | embeddings, cosine similarity, gradient descent | Watch Karpathy part 2 (1:20:32 -- 2:07:27)|
 | 7 | 24.11.2025 | [Karpathy part 2](https://youtu.be/7xTGNNLPyMI?si=PZEimf5WCNfXBZBq&t=4832) (1:20:32 -- 2:07:27): more on LLMs, various challenges; different types of models |
