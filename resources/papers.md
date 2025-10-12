@@ -1,6 +1,6 @@
 # List of presentation papers
 
-The papers are listed in chronological order of publication. All papers
+The papers are listed in chronological order of publication. All titles
 are linked to the original publication page in the _Journal of Language
 Modelling_.
 
