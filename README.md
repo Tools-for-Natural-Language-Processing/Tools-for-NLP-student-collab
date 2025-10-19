@@ -2,7 +2,7 @@
 | Session | Date | Topic Title | Homework |
 | --- | --- | --- | --- |
 | 1 | 13.10.2025 | Introduction: Properties of AI systems, git basics (AI tutor) <br> Discussion reading: [Mollick (2023)](https://www.oneusefulthing.org/p/becoming-strange-in-the-long-singularity), [Law (2025)](https://www.learningfromexamples.com/p/what-academics-get-wrong)| Read Turing 1950<br>Start thinking about linguistics paper |
-| 2 | 20.10.2025 | AI in history, [Turing 1950](https://github.com/Tools-for-Natural-Language-Processing/tools-course-material/blob/main/Turing1950.pdf) // more on git; google colab | Start watching Karpathy part 1 (Nov 3rd)<br> Jurafsky & Martin (2024: 32-38)|
+| 2 | 20.10.2025 | AI in history, [Turing 1950](https://github.com/Tools-for-Natural-Language-Processing/tools-course-material/blob/main/Turing1950.pdf) // more on git; google colab | Start watching Karpathy part 1 (Nov 3rd)<br> [Jurafsky & Martin (2024: 32-38)](https://github.com/Tools-for-Natural-Language-Processing/tools-course-material/blob/main/JurafskyMartin_2024.pdf)|
 | 3 | 27.10.2025 | n-gram models, tokenizing, tagging, NER // tools: google colab | Finish watching Karpathy part 1 (0:00:00 -- 01:20:31)|
 | 4 | 03.11.2025 | [Karpathy part 1](https://youtu.be/7xTGNNLPyMI?si=qIU-Up9xHwH4p2jh) (0:00:00 -- 01:20:31) // use of various tools; huggingface |
 | 5 | 10.11.2025 | working with linguistics papers (1): AI as a tool // identification of various challenges |
