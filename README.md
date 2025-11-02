@@ -1,6 +1,6 @@
 # Syllabus (preliminary & tentative)
 The table below summarizes the topics for each course meeting and lists the preparation tasks for the following week. For every Monday meeting, a tutorial is held on Wednesday. The tutorial is dedicated to discussing open questions and completing hands-on tasks, such as Python implementations of core concepts. Slides, additional materials, Colab notebooks, and other resources are collected in a [separate overview](resources/README.md). 
-| Session | Date | Topic Title | Homework for session n+1 |
+| Session | Date | Topic Title | Homework for session n+1|
 | --- | --- | --- | --- |
 | 1 | 13.10.2025 | Introduction: Properties of AI systems, git basics (AI tutor) <br> Discussion reading: [Mollick (2023)](https://www.oneusefulthing.org/p/becoming-strange-in-the-long-singularity), [Law (2025)](https://www.learningfromexamples.com/p/what-academics-get-wrong)| Read Turing 1950<br>Start thinking about linguistics paper |
 | 2 | 20.10.2025 | AI in history, [Turing 1950](https://github.com/Tools-for-Natural-Language-Processing/tools-course-material/blob/main/Turing1950.pdf) // more on git; google colab | Start watching Karpathy part 1 (Nov 3rd)<br> [Jurafsky & Martin (2024: 32-38)](https://github.com/Tools-for-Natural-Language-Processing/tools-course-material/blob/main/JurafskyMartin_2024.pdf)|
