@@ -7,7 +7,7 @@
 # Course material
 | Week | Topic | Resources |
 | --- | --- | --- |
-| 1 | Introduction | [LLM output variability (slides)]()<br> [Collection of presentation papers](papers.md)|
+| 1 | Introduction | [LLM output variability (slides)](https://github.com/Tools-for-Natural-Language-Processing/tools-course-material/blob/main/LLM-output-variability-slides-Oct.13th.pdf)<br> [Collection of presentation papers](papers.md)|
 | 2 | Turing (1950) | Imitation game simulations<br> Imitation game scenario and analysis by Gemini and Grok<br> Exercise: Machine or human?<br> Working with Github and Google Colab|
 | 3 | n-gram models | Collection of notebooks for studying n-gram models |
 | 4 | Intro to LLMs | to be added |
