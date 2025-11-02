@@ -1,4 +1,5 @@
 # Syllabus (preliminary & tentative)
+The table below summarizes the topics for each course meeting and lists the preparation tasks for the following week. For every Monday meeting, a tutorial is held on Wednesday. The tutorial is dedicated to discussing open questions and completing hands-on tasks, such as Python implementations of core concepts. Slides, additional materials, Colab notebooks, and other resources are collected in a [separate overview](resources/README.md). 
 | Session | Date | Topic Title | Homework |
 | --- | --- | --- | --- |
 | 1 | 13.10.2025 | Introduction: Properties of AI systems, git basics (AI tutor) <br> Discussion reading: [Mollick (2023)](https://www.oneusefulthing.org/p/becoming-strange-in-the-long-singularity), [Law (2025)](https://www.learningfromexamples.com/p/what-academics-get-wrong)| Read Turing 1950<br>Start thinking about linguistics paper |
@@ -6,7 +7,7 @@
 | 3 | 27.10.2025 | n-gram models, tokenizing, tagging, NER // tools: google colab | Finish watching Karpathy part 1 (0:00:00 -- 01:20:31)|
 | 4 | 03.11.2025 | [Karpathy part 1](https://youtu.be/7xTGNNLPyMI?si=qIU-Up9xHwH4p2jh) (0:00:00 -- 01:20:31) // use of various tools; huggingface, git assistant | [Jurafsky & Martin (2024: 106-118)](https://github.com/Tools-for-Natural-Language-Processing/tools-course-material/blob/main/JurafskyMartin_2024.pdf)|
 | 5 | 10.11.2025 | working with linguistics papers (1): AI as a tool // identification of various challenges<br> vector semantics, words as vectors, cosine similarity, TF-IDF| [Jurafsky & Martin (2024: 121-130)](https://github.com/Tools-for-Natural-Language-Processing/tools-course-material/blob/main/JurafskyMartin_2024.pdf)|
-| 6 | 17.11.2025 | word2vector, skip-gram embeddings | Watch Karpathy part 2 (1:20:32 -- 2:07:27)|
+| 6 | 17.11.2025 | word2vector, skip-gram embeddings, gradient descent| Watch Karpathy part 2 (1:20:32 -- 2:07:27)|
 | 7 | 24.11.2025 | [Karpathy part 2](https://youtu.be/7xTGNNLPyMI?si=PZEimf5WCNfXBZBq&t=4832) (1:20:32 -- 2:07:27): more on LLMs, various challenges; different types of models |
 | 8 | 01.12.2025 | working with linguistics papers (2)| Watch Karpathy part 3 (2:07:28 -- end)|
 | 9 | 08.12.2025 | [Karpathy part 3](https://youtu.be/7xTGNNLPyMI?si=LrctojjKaEZYB_g6&t=7648) (2:07:28 -- end): reinforcement learning, big picture|
@@ -20,4 +21,4 @@
 <br>
 
 # Course description
-For a description of the seminar, refer to the [course announcement](https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=404400) on QIS, Goethe Universität Frankfurt
+For a [full description of the seminar](https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=404400), please refer to the official course listing in the QIS course catalog at Goethe University Frankfurt.
