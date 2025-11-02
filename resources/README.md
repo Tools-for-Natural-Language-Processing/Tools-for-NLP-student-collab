@@ -1,10 +1,12 @@
-# Resource folder, grouped by week
-- Links to readings (PDFs, articles, video tutorials, LLM providers, etc.).
-- Supplementary materials provided by the instructors.
+# Resources, Grouped by Week
 
+- Links to readings (PDFs, articles, video tutorials, LLM providers, etc.)  
+- Supplementary materials provided by the instructors
+
+Materials are organized by week and include **all resources** from the **Monday seminar** and the **accompanying Wednesday tutorial**.
 <br>
 
-# Course material
+# Course Material
 | Week | Topic | Resources |
 | --- | --- | --- |
 | 1 | Introduction | [LLM output variability (slides)](https://github.com/Tools-for-Natural-Language-Processing/tools-course-material/blob/main/LLM-output-variability-slides-Oct.13th.pdf)<br> [Collection of presentation papers](papers.md)|
