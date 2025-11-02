@@ -1,9 +1,5 @@
 # Syllabus (preliminary & tentative)
-The table below summarizes the topics of each course meeting, and lists the preparation tasks for
-the following week. For each Monday meeting, there is a tutorial meeting on Wednesdays. The tutorial
-is for discussion of open questions and for hands-on tasks such as Python implementations of
-core ideas. Slides, additional material, Colab notebooks, etcs are collected in a [separate
-overview](resources/README.md). 
+The table below summarizes the topics for each course meeting and lists the preparation tasks for the following week. For every Monday meeting, a tutorial is held on Wednesday. The tutorial is dedicated to discussing open questions and completing hands-on tasks, such as Python implementations of core concepts. Slides, additional materials, Colab notebooks, and other resources are collected in a [separate overview](resources/README.md). 
 | Session | Date | Topic Title | Homework |
 | --- | --- | --- | --- |
 | 1 | 13.10.2025 | Introduction: Properties of AI systems, git basics (AI tutor) <br> Discussion reading: [Mollick (2023)](https://www.oneusefulthing.org/p/becoming-strange-in-the-long-singularity), [Law (2025)](https://www.learningfromexamples.com/p/what-academics-get-wrong)| Read Turing 1950<br>Start thinking about linguistics paper |
@@ -25,4 +21,4 @@ overview](resources/README.md).
 <br>
 
 # Course description
-For a description of the seminar, refer to the [course announcement](https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=404400) on QIS, Goethe Universität Frankfurt
+For a [full description of the seminar](https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=404400), please refer to the official course listing in the QIS course catalog at Goethe University Frankfurt.
