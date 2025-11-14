@@ -14,4 +14,4 @@ Materials are organized by week and include **all resources** from the **Monday 
 | 3 | n-gram models | [A collection of notebooks for studying n-gram models](https://github.com/Tools-for-Natural-Language-Processing/tools-course-material/blob/main/links-colab-notebooks.md) |
 | 4 | Intro to LLMs | [Slides with summary of Karpathy video](Karpathy_Lecture_Part1.pdf) <br> [Comparison of LLM Tokenizers](https://github.com/Tools-for-Natural-Language-Processing/tools-course-material/blob/543dbc731b33debfdcac3fd219f690588f71edd4/
 Comparison%20of%20LLM%20tokenizers.pdf)|
-| 4 | Linguistics Papers | [Identification of various challenges]() <br> [More exercises with Python & NLTK]()|
+
