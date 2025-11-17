@@ -1,6 +1,6 @@
 ## Challenges you have been confronted with when using LLMs and the strategies that you employ to improve their output
 
-In this file, feel free to add any challenges you have been confronted with while using LLMs to analyze a research paper, as well as, the strategies that you have employed to improve the accuracy or depth of the model's answer. Here are a few challenges and strategies that we have already mentioned in class. Feel free to expand the list.
+In this file, feel free to add any challenges you have been confronted with while using LLMs to analyze a research paper, as well as, the strategies that you have employed to improve the accuracy or depth of the models' answers. Here are a few challenges and strategies that we have already mentioned in class. Feel free to expand the list.
 
 
 ### Challenges:
