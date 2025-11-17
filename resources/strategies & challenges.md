@@ -11,7 +11,7 @@ In this file, feel free to add any challenges you have been confronted with whil
 5. The model does not have direct access to the data. / No Google search grounding
 6. ...
 
-### Strategies
+### Strategies:
 1. Prompting the model to solve a problem by breaking down the problem into smaller subtasks. <br>
  
 2. Prompting the model to think step by step. <br>
