@@ -1,13 +1,22 @@
-## Strategies in using LLMs and various challenges you are confronted with
+## Challenges you have been confronted with when using LLMs and the strategies that you employ to improve their output
 
-In this file, you can add new strategies that you are trying out while investigating research papers with the help of AI, as well as commenting on challenges you have been confronted with.
+In this file, feel free to add any challenges you have been confronted with while using LLMs to analyze a research paper, as well as, the strategies that you have employed to improve the accuracy or depth of the model's answer. Here are a few challenges and strategies that we have already mentioned in class. Feel free to expand the list.
+
+
+### Challenges:
+1. Text summarization
+2. Graph Analysis
+3. Counting of letters
+4. Data annotation
+5. ...
 
 ### Strategies
-1. Prompting the model to solve a problem by breaking down the problem into smaller subproblems. <br>
-   Example:
-3. Prompting the model to think step by step. <br>
-   Example:
-5. Providing the model with an example/template to follow in order to answer the question (in-context learning). <br>
-   Example:
+1. Prompting the model to solve a problem by breaking down the problem into smaller subtasks. <br>
+ 
+2. Prompting the model to think step by step. <br>
+
+3. Providing the model with an example/template to follow (in-context learning). <br>
+
+4. ...
+
    
-### Challenges:
