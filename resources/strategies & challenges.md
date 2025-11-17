@@ -4,11 +4,12 @@ In this file, feel free to add any challenges you have been confronted with whil
 
 
 ### Challenges:
-1. Text summarization
+1. Text summarization 
 2. Graph Analysis
 3. Counting of letters
 4. Data annotation
-5. ...
+5. The model does not have direct access to the data. / No Google search grounding
+6. ...
 
 ### Strategies
 1. Prompting the model to solve a problem by breaking down the problem into smaller subtasks. <br>
