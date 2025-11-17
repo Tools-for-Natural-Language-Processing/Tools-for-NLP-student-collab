@@ -6,5 +6,5 @@
 3. Prompting the model to think step by step.
    Example:
 5. Providing the model with an example/template to follow in order to answer the question (in-context learning).
-   Examole:
+   Example:
    
