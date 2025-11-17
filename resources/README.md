@@ -14,4 +14,5 @@ Materials are organized by week and include **all resources** from the **Monday 
 | 3 | n-gram models | [A collection of notebooks for studying n-gram models](https://github.com/Tools-for-Natural-Language-Processing/tools-course-material/blob/main/links-colab-notebooks.md) |
 | 4 | Intro to LLMs | [Slides with summary of Karpathy video](Karpathy_Lecture_Part1.pdf) <br> [Comparison of LLM Tokenizers](https://github.com/Tools-for-Natural-Language-Processing/tools-course-material/blob/543dbc731b33debfdcac3fd219f690588f71edd4/Comparison%20of%20LLM%20tokenizers.pdf)|
 | 5 | Linguistics Papers | [Identification of various challenges](https://github.com/Tools-for-Natural-Language-Processing/tools-course-material/blob/a5799e32e5be2c7b193d49b96b52f04856b1032f/Identification%20of%20various%20challenges%20(experiments%20with%20models%20on%20LobeChat)-1.pdf) <br> [More exercises with Python & NLTK](https://colab.research.google.com/drive/1F7n2yn47XdOjeNeZWLdorsvZdTsujiXc?usp=sharing)|
+| 6 | Word2Vec, the skip-gram algorithm | [Static vs. dynamic embeddings & sentence similarity](https://colab.research.google.com/drive/1bqKdsKWN-TgDmjVlNsO4lq1Fq6dvXycK?usp=sharing) |
 
