@@ -18,6 +18,8 @@ In this file, feel free to add any challenges you have been confronted with whil
 
 3. Providing the model with an example/template to follow (in-context learning). <br>
 
-4. ...
+4. "Meta-Prompting" the AI-Model for it to generate a system-prompt or an improved version of the original prompt.
+
+    4.1. Desigining a "pre-instructed" model with a system prompt from step 4 and tool-calling..  
 
    
