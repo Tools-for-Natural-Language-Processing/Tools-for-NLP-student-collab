@@ -14,8 +14,8 @@ The table below summarizes the topics for each course meeting and lists the prep
 | 10 | 15.12.2025 | working with linguistics papers (3)|
 | 11 | 12.01.2026 | Retrieval Augmented Generation (RAG),  NotebookLM // term paper topics |
 | 12 | 19.01.2026 | Refining RAG and implementation of a RAG pipeline; presentation guide |
-| 13 | 26.01.2026 | student presentations 1: 3 presentations (à 20 + 5min) |
-| 14 | 02.02.2026 | student presentations 2: 3 presentations | Read Wiener 1964 |
+| 13 | 26.01.2026 | 1st student presentation session: Three presentations (à 20 + 5min) |
+| 14 | 02.02.2026 | 2nd student presentation session: Two presentations | Read Wiener 1964 |
 | 15 | 09.02.2026 | [Wiener 1964](https://github.com/Tools-for-Natural-Language-Processing/tools-course-material/blob/main/Wiener_1964.pdf), the ethics of AI use |
 
 <br>
