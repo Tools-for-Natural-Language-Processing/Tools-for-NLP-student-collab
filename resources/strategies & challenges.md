@@ -20,6 +20,7 @@ In this file, feel free to add any challenges you have been confronted with whil
 
 4. "Meta-Prompting" the AI-Model for it to generate a system-prompt or an improved version of the original prompt.
 
-    4.1. Desigining a "pre-instructed" model with a system prompt from step 4 and tool-calling..  
+    4.1. Desigining a "pre-instructed" model with a system prompt from step 4 and tool-calling.. 
 
-   
+5. I found that if I create a project in ChatGPT and then upload reference material and do proper prompting, the cross referencing becomes better.  
+
