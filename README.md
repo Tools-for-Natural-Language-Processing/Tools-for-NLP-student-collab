@@ -11,7 +11,7 @@ The table below summarizes the topics for each course meeting and lists the prep
 | 7 | 24.11.2025 | [Karpathy part 2](https://youtu.be/7xTGNNLPyMI?si=PZEimf5WCNfXBZBq&t=4832) (1:20:32 -- 2:07:27): more on LLMs, various challenges; different types of models | [Alammar, Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) |
 | 8 | 01.12.2025 | working with linguistics papers (2)| Watch Karpathy part 3 (2:07:28 -- end)|
 | 9 | 08.12.2025 | [Karpathy part 3](https://youtu.be/7xTGNNLPyMI?si=LrctojjKaEZYB_g6&t=7648) (2:07:28 -- end): reinforcement learning, big picture| linguistics papers (reporting various challenges) |
-| 10 | 15.12.2025 | working with linguistics papers (3)| Anthropic,[On the Biology of an LLM](https://transformer-circuits.pub/2025/attribution-graphs/biology.html) (Christmas fun for those interested in the blog)
+| 10 | 15.12.2025 | working with linguistics papers (3)| [Anthropic, On the Biology of an LLM](https://transformer-circuits.pub/2025/attribution-graphs/biology.html) (Christmas fun for those interested in the blog)
 | 11 | 12.01.2026 | Retrieval Augmented Generation (RAG),  NotebookLM // term paper topics |
 | 12 | 19.01.2026 | Refining RAG and implementation of a RAG pipeline; presentation guide |
 | 13 | 26.01.2026 | 1st student presentation session: Three presentations (à 20 + 5min) |
