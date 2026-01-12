@@ -12,7 +12,7 @@ The table below summarizes the topics for each course meeting and lists the prep
 | 8 | 01.12.2025 | working with linguistics papers (2)| Watch Karpathy part 3 (2:07:28 -- end)|
 | 9 | 08.12.2025 | [Karpathy part 3](https://youtu.be/7xTGNNLPyMI?si=LrctojjKaEZYB_g6&t=7648) (2:07:28 -- end): reinforcement learning, big picture| linguistics papers (reporting various challenges) |
 | 10 | 15.12.2025 | working with linguistics papers (3)| [Anthropic, On the Biology of an LLM](https://transformer-circuits.pub/2025/attribution-graphs/biology.html) (Christmas fun for those who want to delve deeper into LLMs)
-| 11 | 12.01.2026 | Retrieval Augmented Generation (RAG),  NotebookLM // term paper topics |
+| 11 | 12.01.2026 | Retrieval Augmented Generation (RAG),  NotebookLM // term paper topics | [What is RAG](https://learn.microsoft.com/en-us/azure/databricks/generative-ai/retrieval-augmented-generation) <br> [Chunking](https://www.pinecone.io/learn/chunking-strategies/) <br> [Sentence Similarity](https://huggingface.co/tasks/sentence-similarity)|
 | 12 | 19.01.2026 | Refining RAG and implementation of a RAG pipeline; presentation guide |
 | 13 | 26.01.2026 | 1st student presentation session: Three presentations (à 20 + 5min) |
 | 14 | 02.02.2026 | 2nd student presentation session: Two presentations | Read Wiener 1964 |
