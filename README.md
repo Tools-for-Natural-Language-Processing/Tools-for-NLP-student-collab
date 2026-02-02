@@ -16,7 +16,7 @@ The table below summarizes the topics for each course meeting and lists the prep
 | 12 | 19.01.2026 | Refining RAG and implementation of a RAG pipeline; presentation guide | [Claude Code and What Comes Next](https://www.oneusefulthing.org/p/claude-code-and-what-comes-next) by Ethan Mollick (2026)|
 | 13 | 26.01.2026 | 1st student presentation session: Three presentations (à 20 + 5min) |
 | 14 | 02.02.2026 | 2nd student presentation session: Two presentations | Read Wiener 1964 |
-| 15 | 09.02.2026 | [Wiener 1964](https://github.com/Tools-for-Natural-Language-Processing/tools-course-material/blob/main/Wiener_1964.pdf), the ethics of AI use |
+| 15 | 09.02.2026 | [Wiener 1964](https://github.com/Tools-for-Natural-Language-Processing/tools-course-material/blob/main/Wiener_1964.pdf), the ethics of AI use <br> [Blind Spots in Academia(https://github.com/Tools-for-Natural-Language-Processing/tools-course-material/blob/c54213ccc58f02ca5d789976d15fbe70c148d75f/Richter_AI-blindspots-in-academia.pdf)] <br> [The Case Against AI (optional)](https://youtu.be/MwfSCCo6jXs?si=9sv8KYPTneQ19bxh)|
 
 <br>
 
