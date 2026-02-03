@@ -15,8 +15,8 @@ The table below summarizes the topics for each course meeting and lists the prep
 | 11 | 12.01.2026 | Retrieval Augmented Generation (RAG),  NotebookLM // term paper topics | [What is RAG?](https://learn.microsoft.com/en-us/azure/databricks/generative-ai/retrieval-augmented-generation) <br> [Chunking & Chunking Strategies](https://www.pinecone.io/learn/chunking-strategies/) <br> [Sentence Similarity](https://huggingface.co/tasks/sentence-similarity)|
 | 12 | 19.01.2026 | Refining RAG and implementation of a RAG pipeline; presentation guide | [Claude Code and What Comes Next](https://www.oneusefulthing.org/p/claude-code-and-what-comes-next) by Ethan Mollick (2026)|
 | 13 | 26.01.2026 | 1st student presentation session: Three presentations (à 20 + 5min) |
-| 14 | 02.02.2026 | 2nd student presentation session: Two presentations | Read Wiener 1964 the ethics of AI use <br> [Blind Spots in Academia](https://github.com/Tools-for-Natural-Language-Processing/tools-course-material/blob/c54213ccc58f02ca5d789976d15fbe70c148d75f/Richter_AI-blindspots-in-academia.pdf) <br> [The Case Against AI](https://youtu.be/MwfSCCo6jXs?si=bS8bA3MwDNKgWs_E) (optional)|
-| 15 | 09.02.2026 | [Wiener 1964](https://github.com/Tools-for-Natural-Language-Processing/tools-course-material/blob/main/Wiener_1964.pdf) |
+| 14 | 02.02.2026 | 2nd student presentation session: Two presentations | Read Wiener (1964) and  <br> [Blind Spots in Academia](https://github.com/Tools-for-Natural-Language-Processing/tools-course-material/blob/c54213ccc58f02ca5d789976d15fbe70c148d75f/Richter_AI-blindspots-in-academia.pdf); <br> [The Case Against AI](https://youtu.be/MwfSCCo6jXs?si=bS8bA3MwDNKgWs_E) (optional)|
+| 15 | 09.02.2026 | [Wiener 1964](https://github.com/Tools-for-Natural-Language-Processing/tools-course-material/blob/main/Wiener_1964.pdf), [Blind Spots in Academia](https://github.com/Tools-for-Natural-Language-Processing/tools-course-material/blob/c54213ccc58f02ca5d789976d15fbe70c148d75f/Richter_AI-blindspots-in-academia.pdf); <br> Discussion session: AIs, ethics, academia, and society |
 
 <br>
 
